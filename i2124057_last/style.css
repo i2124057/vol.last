@@ -1,0 +1,118 @@
+body {
+    background-color: #FFEDD1;
+    margin: 0;
+    padding: 0;
+    font-family: 'Zen Maru Gothic', sans-serif;
+    font-size: 48;
+    line-height: 1.5;
+}
+
+.page-header {
+    text-align: center;
+    border-bottom: 4px solid #42A4FF;
+    padding-bottom: 4px;
+
+}
+
+.color {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1440px;
+    margin: auto;
+}
+
+.color-li {
+    margin-top: 400px;
+    margin-bottom: auto;
+    border-bottom: 4px solid #42A4FF;
+    padding-bottom: 4px;
+
+}
+
+.color img{
+    margin-top: 240px;
+   
+    
+}
+
+.name-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1440px;
+    margin: auto;
+}
+
+.name-card-li {
+    margin-top: 400px;
+    margin-bottom: auto;
+    border-bottom: 4px solid #42A4FF;
+    padding-bottom: 4px;
+}
+
+.name-card img {
+    margin-top: 240px;
+}
+
+.anima {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1440px;
+    margin: auto;
+}
+
+.anima-li {
+    margin-top: 720px;
+    margin-bottom: auto;
+    border-bottom: 4px solid #42A4FF;
+    padding-bottom: 4px;
+}
+
+.anima img {
+    margin-top: 240px;
+    margin-right: 80px;
+}
+
+.vol10 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1440px;
+    margin: auto;
+}
+
+.vol10-li {
+    margin-top: 640px;
+    margin-bottom: auto;
+    border-bottom: 4px solid #42A4FF;
+    padding-bottom: 4px;
+}
+
+.vol10 img {
+    margin-top: 240px;
+    margin-right: 160px;
+}
+
+.vol12{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1440px;
+    margin: auto;
+}
+
+.vol12-li {
+    margin-top: 720px;
+    margin-bottom: auto;
+    border-bottom: 4px solid #42A4FF;
+    padding-bottom: 4px;
+}
+
+.vol12 img {
+    margin-top: 240px;
+    margin-right: 160px;
+    margin-bottom: 240px;
+}
